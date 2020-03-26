@@ -190,7 +190,7 @@ a:active {
 /* ------------------------------------------ */
 header {
   /* linear gradient to make image darker */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/hero.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/hero-min.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -408,7 +408,7 @@ header {
 
 .section-testimonials {
   background-size: cover;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/back-customers.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/back-customers-min.jpg');
   color: #fff;
   background-attachment: fixed;
 }
